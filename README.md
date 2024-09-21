@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou **Henrique Augusto da Silva Jeremias** 
+# 👋 Olá! Eu sou o **Henrique Jeremias** 
 
 Sou um desenvolvedor **Frontend** e **Técnico em Manutenção de Computadores** com paixão por criar soluções tecnológicas que melhoram a experiência do usuário. Atualmente, estou focado em expandir minhas habilidades como **full-stack developer**, trabalhando com frameworks modernos e aprimorando minhas habilidades em **Spring Boot** e **AWS**.
 
