@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Henrique Jeremias</h1>
-<p align="center">Desenvolvedor Frontend & Full-Stack | Java & Spring Boot</p>
+<p align="center">Desenvolvedor Frontend & Full-Stack | Java, Spring Boot, Unity & IA</p>
 
 ---
 
@@ -12,7 +12,7 @@
 ### ⚙️ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,java,spring,git,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,java,spring,cs,python,git,docker,unity" />
 </div>
 
 ---
@@ -46,6 +46,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Inteligência_Artificial-6F42C1?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
 
 ---
