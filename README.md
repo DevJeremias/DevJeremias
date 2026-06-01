@@ -1,7 +1,8 @@
-<h1 align="center">🚀 Henrique Jeremias</h1>
-<p align="center">Desenvolvedor Frontend & Full-Stack | Java, Spring Boot, Unity & IA</p>
 
----
+<h1 align="center">Henrique Jeremias</h1>
+<p align="center">
+  <strong>Desenvolvedor de Software | C# & .NET | Estudante de Ciência da Computação</strong>
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DevJeremias&style=flat-square&color=blue" alt="Profile Views"/>
@@ -9,56 +10,68 @@
 
 ---
 
-### ⚙️ Tecnologias
+### 👨‍💻 Sobre Mim
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,java,spring,cs,python,git,docker,unity" />
-</div>
+Sou graduando em Ciência da Computação pela Universidade da Amazônia (UNAMA) com experiência prática em desenvolvimento de software e manutenção de hardware. Meu foco principal atual é o desenvolvimento backend no ecossistema **C# / .NET**, buscando projetar sistemas corporativos robustos, escaláveis e eficientes. 
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevJeremias&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160em" src="https://streak-stats.demolab.com/?user=DevJeremias&theme=radical&hide_border=true" />
-</div>
+Tenho forte interesse em arquitetura de software, infraestrutura e também na aplicação de C# no desenvolvimento de jogos (Unity). Busco constantemente aprimorar minhas habilidades técnicas e colaborar em projetos que exijam soluções arquiteturais complexas.
 
 ---
 
-### 🧠 Linguagens mais usadas
+### ⚙️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJeremias&layout=pie&theme=radical&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,nodejs,php,js,react,html,css,docker,aws,unity,git" />
 </div>
+
+**Principais Conhecimentos:**
+- **Backend:** C#, .NET, Java, Spring Boot, Python, PHP, Node.js
+- **Frontend:** JavaScript, React, HTML5, CSS3
+- **Infraestrutura & DevOps:** Git, Docker, AWS
+- **Game Dev & Outros:** Unity Engine, Integração com APIs
 
 ---
 
-### 💼 Experiência
+### 🚀 Projetos em Destaque
 
-- 👨‍💻 **Compass UOL** – Estágio com foco em desenvolvimento ágil e boas práticas.
-- 🛠️ Técnico em manutenção – Diagnóstico, formatação e montagem de PCs.
+#### **HRFlow**
+Software focado no gerenciamento de fluxos organizacionais, desenvolvido como projeto acadêmico. A construção envolveu não apenas a engenharia de software, mas também o planejamento conceitual e arquitetural de um **Data Center Tier II** voltado para alta disponibilidade.
 
 ---
 
-### 🌱 Estudando Agora
+### 💼 Experiência Profissional
+
+- 👨‍💻 **Compass UOL** – *Estágio em Desenvolvimento*
+  * Atuação com foco em metodologias ágeis, boas práticas de programação e desenvolvimento orientado a entregas de valor.
+- 🛠️ **Técnico em Manutenção de Computadores**
+  * Experiência com diagnóstico de sistemas, formatação, montagem e manutenção de hardware.
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Inteligência_Artificial-6F42C1?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevJeremias&theme=radical" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevJeremias&theme=radical&hide_border=true" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevJeremias&theme=radical" height="180em" />
+</div>
 ---
 
 ### 📫 Contato
 
 <div align="center">
-  <a href="https://github.com/DevJeremias">
-    <img src="https://img.shields.io/badge/GitHub-DevJeremias-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/DevJeremias" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:contato.hyur@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-contato.hyur@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:contato.hyur@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/henrique-augusto-da-silva-jeremias-477b44289/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
